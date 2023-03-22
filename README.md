@@ -37,6 +37,8 @@ These are the instructions for Windows 10 and Linux.
 I have not tested this on Mac. If someone with a Mac tests this and 
 it works (or doesn't), please let me know!
 
+Also, if working in Windows, some of the dependencies (e.g., hdbscan) may require that Microsoft C++ Build Tools be installed. It can be downloaded from here: https://visualstudio.microsoft.com/visual-cpp-build-tools/  
+
 If you have any difficulties or find any bugs, please get in touch and I will try to help you get it going. 
 Suggestions for improvements are greatly appreciated.
 
